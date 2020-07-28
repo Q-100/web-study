@@ -47,4 +47,4 @@ const elli = { name: "ellie", age: 20 };
 console.log(elli.age + 30);
 
 //변수명.charAt(index) -> 문자열의 인덱스에 해당하는 요소를 출력
-//test
+//test2
