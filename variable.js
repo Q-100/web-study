@@ -17,6 +17,7 @@ const hi = 8;
 const count = 18;
 const size = 18.1;
 console.log(`value : ${count}, type : ${typeof count}`);
+
 //숫자 값이 크면 뒤에 n붙이기
 
 const first = "안녕하세요";
@@ -33,6 +34,7 @@ console.log(`value : ${third}, type : ${typeof third}`);
 //같은 심볼을 주어도 다른 식별자로 인식함
 const symbol1 = Symbol("id");
 const symbol2 = Symbol("id");
+
 // 위의 심볼1과 심볼2는 서로 다른 값임
 console.log(symbol1 == symbol2);
 
