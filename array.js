@@ -63,3 +63,5 @@ console.log(fruit.concat(fruit2));
 console.log(fruit.indexOf("사과")); // 인덱스가 존재하면 인덱스반환, 없을시 -1반환(발견하면 반환 후 종료->뒤에 있어도 반환X)
 console.log(fruit.includes("레몬")); // 배열안에 존재 시 true 없을시 false
 console.log(fruit.lastIndexOf("레몬")); // 가장 마지막 으로 찾은 요소를 반환
+
+console.log("테스트");
