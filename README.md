@@ -72,4 +72,5 @@ To print message in the console, use `consol.log("your message")` and ...
 console.log("asdasd");
 ```
 
--[x] dasdasd
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] this is an incomplete item
