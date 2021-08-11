@@ -74,3 +74,4 @@ console.log("asdasd");
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [ ] this is an incomplete item
+- [x] 이거 했음
