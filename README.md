@@ -46,7 +46,7 @@ Number:
 
 <!-- Link -->
 
-Click [here](여기에 링크 적으면됨)
+Click [here](링크주소)
 
 <!-- Image -->
 
